@@ -9,6 +9,9 @@ body {
     font-family: Arial, sans-serif;
     background-color: #F1EFEF;
 }
+img{
+    height: 
+}
 
 header {
     background-color: #CCC8AA;
@@ -17,13 +20,7 @@ header {
     padding: 20px 0;
 }
 
-.profile{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height:200px;
-  width:200px;
-}
+
 
 h1 {
     font-size: 36px;
